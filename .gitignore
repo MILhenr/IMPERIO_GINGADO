@@ -1,9 +1,0 @@
-# Ambiente virtual
-instamundo/
-venv/
-__pycache__/
-*.pyc
-*.pyo
-.DS_Store
-*.log
-*.tmp
